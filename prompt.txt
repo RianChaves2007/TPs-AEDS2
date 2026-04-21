@@ -1,0 +1,1 @@
+No arquivo PDF estão todas as orientações para formulação de código. quero que você ententa-o muito bem, e em seguida complete meu código em ColecaoRestaurantes.java seguindo as orientações do ecercício 1. Modelagem em Java.  
